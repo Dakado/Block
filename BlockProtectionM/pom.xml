@@ -11,7 +11,7 @@
   <artifactId>BlockProtectionM</artifactId>
   <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Maven Quick Start Archetype</name>
+  <name>BlockProtection</name>
   <url>http://maven.apache.org</url>
   <dependencies>
   <dependency>
